@@ -1,0 +1,348 @@
+body{
+	background-color: #cdcdcd;
+}
+.banner{
+	width: 90%;
+	height: 60px;
+	margin: 0px auto;
+
+}
+.logo{
+	background-image: url(../media/slogo.png);
+	background-size: 130px 70px;
+	width: 130px;
+	height: 70px;
+	float: left;
+}
+ol{
+	margin: 0px;
+	padding:0px;
+	list-style-type: none;
+	float: left;
+	margin-left: 100px;
+}
+li{
+	float: left;
+	margin-left: 30px;
+	margin-top: 25px;
+	opacity: 0.5;
+}
+li:hover{
+	cursor: pointer;
+	opacity: 1.0;
+}
+.ara{
+	margin-top: 23px;
+	float: left;
+	margin-left: 43px;
+}
+input[type="sumbit"]{
+	width: 105px;
+}
+input[type="sumbit"]:focus{
+	width: 155px;
+	transition: 2s;
+}
+
+.search{
+	background-image: url(../media/search.png);
+	background-size: 25px 25px;
+	width: 25px;
+	height: 25px;
+	float: left;
+	margin-top: 22px;
+}
+.search:hover{
+	background-image: url(../media/search2.png);
+	background-size: 25px 25px;
+	width: 25px;
+	height: 25px;
+	float: left;
+	margin-top: 22px;
+	cursor: pointer;
+}
+.ins{
+	background-image: url(../media/insta.png);
+	background-size:50px 40px;
+	position: fixed;
+	width: 50px;
+	height: 40px;
+	float: left;
+	margin-top: 100px;
+	cursor: pointer;	
+}
+.face{
+	background-image: url(../media/face.png);
+	background-size: 50px 40px;
+	position: fixed;
+	width: 50px;
+	height: 40px;
+	float: left;
+	margin-top: 130px;
+	cursor: pointer;	
+}
+.twit{
+	background-image: url(../media/twit.png);
+	background-size: 50px 40px;
+	position: fixed;
+	width: 50px;
+	height: 40px;
+	float: left;
+	margin-top: 160px;
+	cursor: pointer;			
+}
+.korona{
+	background-image: url(../media/koronail.jpg);
+	background-size: 350px 250px;
+	width: 350px;
+	height: 250px;
+	margin-top: 22px;
+	margin-left: 60px;
+	clear: left;
+	float: left;
+}
+.bakan{
+	background-image: url(../media/bakan.jpg);
+	background-size: 400px 250px;
+	width: 400px;
+	height: 250px;
+	margin-top: 22px;
+	float: left;
+}
+.yanyazı{
+	border:2px solid tomato;
+	background-color: white;
+	width: 158px;
+	height: 248px;
+	float: left;
+	margin-top: 20px;
+	margin-left: 20px;
+	
+}
+.bakanyazı{
+	color: gray;
+	font-size: 16px;
+	margin-left: 5px;
+}
+.virus{
+	background-image: url(../media/virusliste.png);
+	background-size: 932px 100px;
+	width: 932px;
+	height: 100px;
+	margin-top: 22px;
+	float: left;
+	margin-left: 60px;
+	cursor: pointer;
+}
+.yanmaddeler{
+	width: 350px;
+	height: 225px;
+	float: left;
+	margin-left: 60px;
+	margin-top: 15px;
+	cursor: pointer;
+}
+.madde1{
+	border:2px solid white;
+	line-height: 50px;
+	margin-top: 5px;
+	width: 350px;
+	height: 50px;
+	background-color: #cdcdcd;
+	opacity: 1.0;
+}
+.madde1:hover{
+	opacity: 0.5;
+}
+.logo1{
+	background-image: url(../media/basın.png);
+	background-size: 40px 40px;
+	width: 40px;
+	height: 40px;
+	float: left;
+	margin-top: 5px;
+	opacity: 1.0;
+}
+.logo2{
+	background-image: url(../media/bilgi.png);
+	background-size: 40px 40px;
+	width: 40px;
+	height: 40px;
+	float: left;
+	margin-top: 5px;
+}
+.logo3{
+	background-image: url(../media/dunya.png);
+	background-size: 40px 40px;
+	width: 40px;
+	height: 40px;
+	float: left;
+	margin-top: 5px;
+}
+.logo4{
+	background-image: url(../media/konum.png);
+	background-size: 40px 40px;
+	width: 40px;
+	height: 40px;
+	float: left;
+	margin-top: 5px;
+}
+.kare1{
+	width: 200px;
+	height: 110px;
+	background-color: white;
+	border:1px solid black;
+	float: left;
+	margin-top: 20px;
+	margin-left:20px;
+}
+.kare1:hover{
+	background-color: #cdcdcd;
+}
+.kare2{
+	width: 200px;
+	height: 110px;
+	background-color: white;
+	border:1px solid black;
+	float: left;
+	margin-top: 20px;
+	margin-left: 10px;
+}
+.kare2:hover{
+	background-color: #cdcdcd;
+}
+.kare3{
+	width: 200px;
+	height: 110px;
+	background-color: white;
+	border:1px solid black;
+	float: left;
+	margin-top: 6px;
+	margin-left: 20px;
+}
+.kare3:hover{
+	background-color: #cdcdcd;
+}
+.kare4{
+	width: 200px;
+	height: 110px;
+	background-color: white;
+	border:1px solid black;
+	float: left;
+	margin-top: 6px;
+	margin-left: 10px;
+}
+.kare4:hover{
+	background-color: #cdcdcd;
+}
+.biryazı{
+	font-size: 18px;
+	margin-left: 10px;
+	font-weight: bold;
+	float: left;
+	margin-top: 10px;
+}
+.birresim{
+	background-image: url(../media/kalp.png);
+	background-size: 60px 70px;
+	width:60px;
+	height: 70px;
+	float: left;
+	margin-top: 5px;
+	margin-left: 10px;
+}
+input[type="button"]{
+	width: 80px;
+	margin-top: 5px;
+	float: left;
+	text-align: center;
+	margin-left: 60px;
+	font-size: 10px;
+	cursor: pointer;
+}
+input[type="button"]:hover{
+	background-color: black;
+	color: white;
+	border:2px solid red;
+	cursor: pointer;
+	transition: 0.7s;
+}
+.ikiyazı{
+	font-size: 18px;
+	margin-left: 10px;
+	font-weight: bold;
+	float: left;
+	margin-top: 10px;
+}
+.ikiresim{
+	background-image: url(../media/kilo.png);
+	background-size: 60px 70px;
+	width:60px;
+	height: 70px;
+	float: left;
+	margin-top: 5px;
+	margin-left: 10px;
+}
+.ucyazı{
+	font-size: 18px;
+	margin-left: 10px;
+	font-weight: bold;
+	float: left;
+	margin-top: 10px;
+}
+.ucresim{
+	background-image: url(../media/hava.png);
+	background-size: 60px 70px;
+	width:60px;
+	height: 70px;
+	float: left;
+	margin-top: 5px;
+	margin-left:45px;
+}
+.dortyazı{
+	font-size: 18px;
+	margin-left: 10px;
+	font-weight: bold;
+	float: left;
+	margin-top: 10px;
+}
+.dortresim{
+	background-image: url(../media/ucak.png);
+	background-size: 60px 70px;
+	width:60px;
+	height: 70px;
+	float: left;
+	margin-top: 5px;
+	margin-left: 30px;
+}
+.yanreklam{
+	background-image: url(../media/reklam.jpg);
+	background-size: 130px 230px;
+	width:130px;
+	height: 230px;
+	float: right;
+	margin-top: -113px;
+	margin-right: 70px;
+}
+.altok{
+	background-image: url(../media/altok.png);
+	background-size: 70px 70px;
+	width:70px;
+	height: 70px;
+	float: right;
+	margin-right: 460px;
+	cursor: pointer;
+}
+.enalt{
+	float: left;
+	background-color: red;
+	border:2px dotted white;
+	width:100%;
+	height: 50px;
+	margin-bottom: 10px;
+}
+.altyazı{
+	color: white;
+	line-height: 50px;
+	margin-left: 40px;
+}

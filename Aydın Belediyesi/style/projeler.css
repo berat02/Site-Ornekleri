@@ -1,0 +1,94 @@
+body{
+	
+}
+
+.logo{
+	background-image: url(../media/aydın/logo.png);
+	background-color: blue;
+	width: 91px;
+	height: 140px;
+	margin-left: 70px;
+	float: left;
+	margin-bottom: 20PX;
+}
+.linkler{
+	display: flex;
+	float: left;
+	width: 1000px;
+	height: 60px;
+	margin-top: 40px;
+	background-color: blue;
+	margin-left: 80px;
+	border-radius: 2PX;
+
+}
+.ev{
+	background-image: url(../media/aydın/ev.png);
+	background-size: 50px;
+	width: 50px;
+	height: 50px;
+	float: left;
+	margin-left: 20px;
+	border-radius: 5px;
+}
+
+.l1{
+	float: left;
+	text-align: center;
+	line-height: 60px;
+	width: 140px;
+	font-size: 17px;
+}
+.l1 a{
+	display: block;
+	text-decoration: none;
+	color: white;
+}
+.l1 a:hover{
+	color: blue;
+	background-color: white;
+	height: 55px;
+}
+.ata{
+	background-image: url(../media/aydın/ata.png);
+	width: 120px;
+	height: 100px;
+}
+.başlık2{
+	color: blue;
+	clear: left;
+	margin-left: 30px;
+	font-size: 50px;
+}
+.res1{
+	background-image: url(../media/projeler/1.jpg);
+	width: 1000px;
+	height:500px;
+	background-size: 1000px;
+	margin-left: 150px;
+	margin-bottom: 10px;
+}
+.res2{
+	background-image: url(../media/projeler/2.jpg);
+	width: 1000px;
+	height:500px;
+	background-size: 1000px;
+	margin-left: 150px;
+	margin-bottom: 10px;
+}
+
+.res3{
+	background-image: url(../media/projeler/3.jpg);
+	width: 1000px;
+	height:550px;
+	background-size: 1000px;
+	margin-left: 150px;
+	margin-bottom: 30px;
+}
+.kay{
+	width: 100%;
+	height: 35px;
+	background-color: blue;
+	color: white;
+	font-size: 25px;
+}

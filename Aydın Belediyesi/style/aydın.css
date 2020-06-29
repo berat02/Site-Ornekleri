@@ -1,0 +1,202 @@
+body{
+	background-color: #cdcdcd;
+	margin: 0px;
+}
+.ana{
+	background-image: url(../media/aydın/bg.jpg);
+	width: 100%;
+	height: 620px;
+	background-size: 1400px;
+
+}
+.logo{
+	background-image: url(../media/aydın/logo.png);
+	width: 91px;
+	height: 140px;
+	margin-left: 70px;
+	float: left;
+	margin-bottom: 20PX;
+}
+.linkler{
+	display: flex;
+	float: left;
+	width: 1000px;
+	height: 60px;
+	margin-top: 40px;
+	background-color: white;
+	margin-left: 80px;
+	border-radius: 2PX;
+}
+.ev{
+	background-image: url(../media/aydın/ev.png);
+	background-size: 50px;
+	width: 50px;
+	height: 50px;
+	float: left;
+	margin-left: 20px;
+	border-radius: 5px;
+}
+
+.l1{
+	float: left;
+	text-align: center;
+	line-height: 60px;
+	width: 140px;
+	font-size: 17px;
+}
+.l1 a{
+	display: block;
+	text-decoration: none;
+}
+.l1 a:hover{
+	color: white;
+	background-color: blue;
+	height: 60px;
+}
+.ata{
+	background-image: url(../media/aydın/ata.png);
+	width: 120px;
+	height: 100px;
+}
+.yazı{
+	clear: left;
+	color: white;
+	margin-left: 100px;
+	font-size: 40px;
+	font-family: Arial Narrow;
+	float: left;
+}
+.baskan{
+	background-image: url(../media/aydın/baskan.png);
+	width: 610px;
+	height: 460px;
+	float: left;
+	margin-left: 100PX;
+}
+.alt{
+	background: rgb(2,21,78);
+	background: linear-gradient(90deg, rgba(2,21,78,1) 30%, rgba(0,62,103,1) 69%, rgba(4,103,149,1) 100%);
+	width: 100%;
+	font-size: 22px;
+	float: left;
+	margin-bottom: 40px;
+}
+.no{
+	color: white;
+	float: left;
+	margin-left: 30px;
+	text-align: center;
+}
+.facebook{
+	background-image: url(../media/aydın/fb.png);
+	background-size: 50px;
+	width: 50px;
+	height: 50px;
+	float: left;
+	margin-left: 400px;
+	border-radius: 5px;
+}
+.twetter{
+	background-image: url(../media/aydın/tw.png);
+	background-size: 50px;
+	width: 50px;
+	height: 50px;
+	float: left;
+	margin-left: 20px;
+	border-radius: 5px;
+}
+.altana{
+	background-color: #fcfaf9;
+	width: 1300px;
+	height: 500px;
+	text-align: center;
+	margin-top: 60px;
+}
+.sol{
+	background-image: url(../media/aydın/çorba.jpg);
+	background-size: 375px;
+	width: 333px;
+	height: 250px;
+	float: left;
+	margin-left: 90px;
+	margin-bottom: 20px;
+}
+.orta{
+	background-image: url(../media/aydın/atares.jpg);
+	background-size: 375px;
+	width: 333px;
+	height: 250px;
+	float: left;
+	margin-left:60px;
+}
+.sağ{
+	background-image: url(../media/aydın/sağres.jpg);
+	background-size: 375px;
+	width: 333px;
+	height: 250px;
+	float: left;
+	margin-left:60px;
+}
+.yazı1{
+	background-color: #cdcdcd;
+	width: 333px;
+	margin-left: 90px;
+	clear: left;
+	float: left;
+}
+.yazı2{
+	background-color: #cdcdcd;
+	width: 333px;
+	margin-left: 60px;
+	float: left;
+
+}
+.yazı3{
+	background-color: #cdcdcd;
+	width: 333px;
+	margin-left: 60px;
+	float: left;
+}
+.kayan{
+	width: 100%;
+	height: 30px;
+	color: white;
+	background-color: blue;
+	font-size: 25px;
+	margin-bottom: 30px;
+}
+.buton1{
+ 	color: white;
+ 	text-decoration: none;
+	width: 150px;
+	height: 30px;
+	background-color: blue;
+	float: left;
+	clear: left;
+	margin-left: 170px;
+  	cursor: pointer;
+  	margin-top: 10px;
+}
+.buton2{
+	width: 150px;
+	height: 30px;
+	background-color: blue;
+	float: left;
+	margin-left: 250px;
+	color: white;
+	cursor: pointer;
+	margin-top: 10px;
+}
+.buton3{
+	width: 150px;
+	height: 30px;
+	background-color: blue;
+	float: left;
+	margin-left:245px;
+	color: white;
+	cursor: pointer;
+	margin-top: 10px;
+}
+
+
+

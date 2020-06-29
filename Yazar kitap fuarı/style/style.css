@@ -1,0 +1,225 @@
+body{
+	background-color: #cdcdcd;
+}
+.ust{
+	margin: 0px auto;
+	width: 950px;
+	height: 75px;
+}
+.logo{
+	background-image: url(../media/logo.jpg);
+	width: 80px;
+	height:75px;
+	float: left;
+	background-size: 80px 75px; 
+	cursor: pointer;
+}
+.logo:hover{
+	background-image: url(../media/logo.jpg);
+	width: 80px;
+	height:75px;
+	float: left;
+	background-size: 85px 80px;
+}
+ol{
+	width: 555px;
+	margin: 0px;
+	list-style-type: none;
+	float: left;
+}
+ol li{
+	background-color: white;
+	border:2px solid black;
+	float: left;
+	width:130px;
+	line-height: 70px;
+	height: 70px; 
+	text-align: center;
+	margin-left: 1px;
+}
+ul{
+	padding: 0px;
+	margin: 0px;
+	list-style-type: none;
+	display: none;
+	color: black;
+
+}
+ul li{
+	margin-left: -2px;
+	background-color: white;
+}
+ol li:hover ul{
+	display: block;
+}
+ol li:hover{
+	background-color: #e1f000;
+	color: white;
+}
+.arama{
+	margin-top: 20px;
+	background-color: black;
+	width: 150px;
+	height: 30px;
+	float: left;
+	margin-left: 20px;
+	color: #e1f000;
+}
+.ara{
+	cursor: pointer;
+	background-image: url(../media/ara.png);
+	width: 80px;
+	height:75px;
+	float: right;
+	background-size: 80px 75px;
+}
+a{
+	display: block;
+	text-decoration: none;
+	color: black;
+	float: left;
+	margin-left: 40px;
+}
+.ok{
+	display: block;
+	background-image: url(../media/ok.png);
+	width: 30px;
+	height:35px;
+	float: right;
+	background-size: 30px 35px;
+}
+
+.anayazı{
+	font-size: 50px;
+	font-family: algerian;
+	margin-left:85px;
+	margin-top: 20px;
+}
+.anares{
+	background-image: url(../media/kitap.jpg);
+	margin: 0px auto;
+	width:950px;
+	height:450px;
+	background-size:950px 450px;
+	margin-bottom: 20px;
+}
+.kayanyazı{
+	font-size: 20px;
+}
+.border{
+	border-color:white; 
+	background-color: #e1f000;
+	margin: 0px auto;
+	width: 920px;
+}
+.yandaire{
+	cursor: pointer;
+	background-image: url(../media/yandaire.png);
+	width:70px;
+	height:40px;
+	background-size:70px 40px;
+}
+.yandaire2{
+	cursor: pointer;
+	background-image: url(../media/yandaire.png);
+	width:70px;
+	height:40px;
+	background-size:70px 40px;
+}
+.yandaire3{
+	cursor: pointer;
+	background-image: url(../media/yandaire.png);
+	width:70px;
+	height:40px;
+	background-size:70px 40px;
+}
+.yan{
+	margin-top: 100px;
+	float: left;
+}
+.yandaire:hover{
+	background-image: url(../media/yanok.png);
+	transition: 0.4s;
+	width:70px;
+	height:40px;
+	background-size:70px 40px;
+	margin-left: 5px;
+}
+.yandaire2:hover{
+	background-image: url(../media/yanok.png);
+	transition: 0.4s;
+	width:70px;
+	height:40px;
+	background-size:70px 40px;
+	margin-left: 5px;
+}
+.yandaire3:hover{
+	background-image: url(../media/yanok.png);
+	transition: 0.4s;
+	width:70px;
+	height:40px;
+	background-size:70px 40px;
+	margin-left: 5px;
+}
+.altyanlar{
+	margin-left: 193px;
+	margin-top: 20px;
+	float: left;
+}
+.altyan{
+	font-weight: bold;
+	width: 300px;
+	height: 60px;
+	background-color: white;
+}
+.altyan:hover{
+	background-color: #e1f000;
+	font-family: cursive;
+	font-weight: bold;
+	cursor: pointer;
+}
+.altyan2{
+	font-weight: bold;
+	width: 300px;
+	height: 60px;
+	background-color: white;
+	margin-top: 20px;
+}
+.altyan2:hover{
+	background-color: #e1f000;
+	font-family: cursive;
+	font-weight: bold;
+	cursor: pointer;
+}
+.altyan3{
+	font-weight: bold;
+	width: 300px;
+	height: 60px;
+	background-color: white;
+	margin-top: 20px;
+}
+.altyan3:hover{
+	background-color: #e1f000;
+	font-family: cursive;
+	font-weight: bold;
+	cursor: pointer;
+}
+.sağkare{
+	width: 500px;
+	height: 220px;
+	background-color: white;
+	margin-top: 20px;
+	float: right;
+	margin-right: 195px;
+}
+.altyany{
+	text-align: center;
+	font-size: 20px;
+	line-height: 60px;
+}
+.sağresim{
+	background-image: url(../media/berat.jpg);
+	background-size: 510px 225px;
+	width: 500px;
+	height: 220px;
+}
